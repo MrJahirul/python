@@ -1,6 +1,6 @@
 // RANGE
 range--print number from stating to end range(0,10) its print (0,10) its range. 
-we can put 3 argument in range functin (stating,ending,step)
+we can put 3 argument in range functin (stating,ending,step/skip)
 
 //LIST
 list- it use for print range value list(range(0,10))=[0,1,2,3,4,5,6,7,8,9].
